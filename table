@@ -1,0 +1,7 @@
+| Potentiometer Level | Expected Raw ADC | Sample Actual Raw ADC | Sample Actual PWM | Sample Actual PWM |
+| :-----------------: | :--------------: | :-------------------: | :---------------: | :---------------: |
+| Minimum             | 2                | 1                     | 1                 | 0                 |
+| Low                 | 1023             | 63                    | 1026              | 62                |
+| Middle              | 2048.48          | 127                   | 2047              | 129               |
+| High                | 3071             | 190                   | 3072              | 191               |
+| Maximum             | 4094             | 254                   | 4093              | 253               |
